@@ -1,0 +1,4 @@
+please put webhook in autodump then make changes you want and the run
+command
+python autosetup.py
+in your server when put all files in these will update and upgrade your
